@@ -302,6 +302,8 @@ export const barCustomSeries = [
     },
   },
 ];
+
+// json foramt m h ye 
 export const colorMappingData = [
   [
     { x: 'Jan', y: 6.96 },
