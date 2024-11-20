@@ -1,7 +1,7 @@
 # React Admin Administration Application
 
 Build and deploy a modern admin dashboard with theming, tables, charts, calendar, Kanban board, and more.
-!Admin Administration application](https://i.ibb.co/W6g39w3/image.png)
+![Admin Administration application](https://i.ibb.co/W6g39w3/image.png)
 
 
 ## Introduction
