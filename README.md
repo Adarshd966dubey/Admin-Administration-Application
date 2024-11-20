@@ -2,7 +2,7 @@
 
 Build and deploy a modern admin dashboard with theming, tables, charts, calendar, Kanban board, and more.
 ![Admin Administration application](https://i.ibb.co/W6g39w3/image.png)
-![main page](C:\Users\91905\Images\admin App Image.png)
+![main page]([C:\Users\91905\Images\admin App Image.png](http://localhost:3000/))
 
 ## Introduction
 
