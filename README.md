@@ -27,7 +27,7 @@ This project demonstrates the creation of a feature-rich React admin dashboard a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adarshd966dubey/Student_Enrollment_System.git
+   git clone https://github.com/Adarshd966dubey/Admin-Administration-Application.git
    ```
 2. Navigate to the project directory:
    ```bash
